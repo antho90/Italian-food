@@ -40,7 +40,6 @@ header {
 }
 
 li {
-    display: inline;
     float: left;
   }
 
@@ -69,6 +68,11 @@ li {
   .mtop{
 margin-top: 35px;
 
+  }
+
+  @media screen and (max-width: 550px) {
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
   }
   
   
