@@ -84,8 +84,34 @@ margin-top: 35px;
     font-size: 60px;
     color: white;
     padding-top: 400px;
+    margin-left: 80px;
   }
 
+.flex {
+    display: flex;
+}
+
+.flex div{
+
+    width: 100vh;
+}
+
+.cursor-l{
+
+    cursor: pointer;
+}
+
+.bouton a {
+    display:block;
+    width:150px;
+    line-height:50px;
+    text-align:center;
+    background-color:#bf964b;
+    color:white;
+    text-decoration:none;
+    margin-top: 530px;
+    margin-right: 100px;
+    }
 
   
   
