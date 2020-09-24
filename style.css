@@ -39,17 +39,6 @@ header {
     background-position: bottom;
 }
 
-.burger{
-
-    background-color:#736c4d;
-    height: 100px;
-}
-
-
-.lb {
-    cursor: pointer;
-}
-
 li {
     display: inline;
     float: left;
@@ -60,7 +49,7 @@ li {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #736c4d;
   }
   
   
@@ -76,5 +65,10 @@ li {
     background-color: #111;
   }
 
+
+  .mtop{
+margin-top: 35px;
+
+  }
   
   
