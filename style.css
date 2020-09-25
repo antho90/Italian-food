@@ -32,6 +32,11 @@ a {
     box-sizing:border-box;
 }
 
+.bg-color{
+    background-color: #bf964b ;
+}
+
+
 header {
     background-image: url(pates.png);
     background-repeat: no-repeat;
@@ -70,7 +75,7 @@ margin-top: 35px;
 
   }
 
-  @media screen and (max-width: 550px) {
+  @media screen and (max-width: 750px) {
     ul.topnav li.right, 
     ul.topnav li {float: none;}
   }
@@ -114,4 +119,8 @@ margin-top: 35px;
     }
 
   
-  
+  .mright{
+
+    margin-right: 3rem;
+  }
+
